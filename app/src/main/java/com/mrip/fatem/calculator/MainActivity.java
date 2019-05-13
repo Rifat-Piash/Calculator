@@ -1,8 +1,7 @@
-package com.example.fatem.calculator;
+package com.mrip.fatem.calculator;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.Display;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
@@ -189,6 +188,4 @@ public class MainActivity extends AppCompatActivity {
     public void clearData(){
         display.setText("");
     }
-
-
 }

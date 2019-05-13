@@ -1,4 +1,4 @@
-package com.example.fatem.calculator;
+package com.mrip.fatem.calculator;
 
 import org.junit.Test;
 

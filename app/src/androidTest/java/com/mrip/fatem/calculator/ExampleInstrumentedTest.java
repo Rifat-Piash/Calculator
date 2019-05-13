@@ -1,4 +1,4 @@
-package com.example.fatem.calculator;
+package com.mrip.fatem.calculator;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
